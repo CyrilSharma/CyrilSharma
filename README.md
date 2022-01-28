@@ -2,6 +2,7 @@
 
 <!--
 **CyrilSharma/CyrilSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrilSharma)](https://github.com/CyrilSharma/github-readme-stats)
 
 Here are some ideas to get you started:
 
