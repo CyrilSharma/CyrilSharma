@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrilSharma)](https://github.com/CyrilSharma/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilSharma)](https://github.com/CyrilSharma&layout=compact/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilSharma&layout=compact)](https://github.com/CyrilSharma/github-readme-stats)
 <!--
 **CyrilSharma/CyrilSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
