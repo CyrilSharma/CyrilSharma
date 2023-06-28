@@ -1,3 +1,4 @@
+<!---
 ### Hi there 👋
 
 [![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrilSharma)](https://github.com/CyrilSharma/github-readme-stats)
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
